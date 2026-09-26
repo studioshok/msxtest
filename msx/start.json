@@ -1,5 +1,5 @@
 {
     "name": "My Example Content",
     "version": "1.0.0",
-    "parameter": "menu:h{PREFIX}{SERVER}/msxtest/msx/menu.json"
+    "parameter": "menu:{PREFIX}{SERVER}/msxtest/msx/menu.json"
 }
