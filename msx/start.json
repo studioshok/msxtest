@@ -1,21 +1,5 @@
 {
-  "type": "list",
-  "headline": "Мой Демо Сервис",
-  "template": {
-    "type": "separate",
-    "layout": "0,0,2,2",
-    "icon": "play-circle"
-  },
-  "items": [
-    {
-      "title": "Тестовое видео 1 (Big Buck Bunny)",
-      "description": "Демонстрационный ролики H264 MP4",
-      "action": "video:https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-    },
-    {
-      "title": "Тестовое видео 2 (Elephants Dream)",
-      "description": "Демонстрационный ролики H264 MP4",
-      "action": "video:https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-    }
-  ]
+    "name": "My Example Content",
+    "version": "1.0.0",
+    "parameter": "menu:http://{SERVER}/msx/menu.json"
 }
